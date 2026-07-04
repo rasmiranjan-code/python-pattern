@@ -1,0 +1,10 @@
+[
+    {
+        "student_id": "1",
+        "name": "Rasmijena",
+        "age": 34,
+        "course": "btech",
+        "marks": 430.0,
+        "grade": "A+"
+    }
+]
