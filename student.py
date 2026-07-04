@@ -301,7 +301,8 @@ def menu():
         print(Fore.WHITE + "9. Average Marks")
         print(Fore.WHITE + "10. Exit")
 
-        choice = input(Fore.YELLOW + "\nEnter Choice : ").strip()
+        print(Fore.YELLOW + "\nEnter Choice : ", end="")
+        choice = input().strip()
 
         if choice == "1":
             try:
