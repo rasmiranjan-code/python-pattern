@@ -6,5 +6,21 @@
         "course": "btech",
         "marks": 430.0,
         "grade": "A+"
+    },
+    {
+        "student_id": "2",
+        "name": "aksh",
+        "age": 32,
+        "course": "btech",
+        "marks": 420.0,
+        "grade": "A+"
+    },
+    {
+        "student_id": "3",
+        "name": "pintu",
+        "age": 32,
+        "course": "btech",
+        "marks": 100.0,
+        "grade": "A+"
     }
 ]
